@@ -8,6 +8,5 @@
 	2)git reset -hard $SHA1
 3,记录每一次命令：
 	1)git reflog
-4,
-这个文件回到最近一次git commit或git add时
-川端康成你分开；v 难对付
+4, git checkout -- githelp.sh
+这个文件回到最近一次git commit或git add时的状态，即如果已经执行了git add或者 git commit，使用该命令无法删除修改
