@@ -8,3 +8,5 @@
 	2)git reset -hard $SHA1
 3,记录每一次命令：
 	1)git reflog
+4,
+这个文件回到最近一次git commit或git add时
