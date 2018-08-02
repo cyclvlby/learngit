@@ -13,3 +13,15 @@
   	如果已经git add,那么：
   	git reset HEAD githelp.sh
   	git checkout -- githelp.sh
+
+5,删除文件
+	git rm tmp.txt
+  错误删除文件恢复：
+  	rm tmp.txt
+  	git checkout -- tmp.txt
+6,添加到远程仓库
+	1）GitHub上创建一个新的repo：
+	2）git remote add origin https://github.com/cyclvlby/learngit.git
+	3）git push -u origin master
+	4）把本地master分支的最新修改推送至GitHub：
+	git push origin master
