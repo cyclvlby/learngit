@@ -25,3 +25,5 @@
 	3）git push -u origin master
 	4）把本地master分支的最新修改推送至GitHub：
 	git push origin master
+7,从远程仓库拷贝一个git工程：
+	git clone git@github.com:michaelliao/gitskills.git
