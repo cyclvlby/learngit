@@ -10,3 +10,4 @@
 	1)git reflog
 4,
 这个文件回到最近一次git commit或git add时
+川端康成你分开；v 难对付
