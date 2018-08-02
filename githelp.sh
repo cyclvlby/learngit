@@ -10,3 +10,6 @@
 	1)git reflog
 4, git checkout -- githelp.sh
 这个文件回到最近一次git commit或git add时的状态，即如果已经执行了git add或者 git commit，使用该命令无法删除修改
+  	如果已经git add,那么：
+  	git reset HEAD githelp.sh
+  	git checkout -- githelp.sh
