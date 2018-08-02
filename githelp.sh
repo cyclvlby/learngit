@@ -30,5 +30,12 @@
 8,分支管理
 	1）创建dev分支，然后切换到dev分支：
 		git checkout -b dev
-	2）查看当前分支：git branch
-	cdkdnk
+	2）查看当前分支：
+		git branch
+	3)切换到主分支：
+		git checkout master
+	4)合并分支： 
+		git merge dev
+	5）删除dev分支：
+		git branch -d dev
+		
