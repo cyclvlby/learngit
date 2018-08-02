@@ -6,3 +6,5 @@
 	1)git reset -hard HEAD^
 	2)git reset -hard HEAD~100
 	2)git reset -hard $SHA1
+3,记录每一次命令：
+	1)git reflog
