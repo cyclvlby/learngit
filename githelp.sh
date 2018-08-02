@@ -27,3 +27,8 @@
 	git push origin master
 7,从远程仓库拷贝一个git工程：
 	git clone git@github.com:michaelliao/gitskills.git
+8,分支管理
+	1）创建dev分支，然后切换到dev分支：
+		git checkout -b dev
+	2）查看当前分支：git branch
+	cdkdnk
